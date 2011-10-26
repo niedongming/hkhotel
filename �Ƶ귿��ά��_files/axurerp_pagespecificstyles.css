@@ -1,0 +1,1144 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../酒店房型维护_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:220px;
+    top:210px;
+    width:990px;
+    height:250px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:996px;
+    height:256px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:117px;
+    width:986px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:220px;
+    top:210px;
+    width:990px;
+    height:250px
+}
+
+.u2_original {
+    background-image: url('../酒店房型维护_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:210px;
+    top:10px;
+    width:1000px;
+    height:40px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1006px;
+    height:46px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:996px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:210px;
+    top:10px;
+    width:1000px;
+    height:40px
+}
+
+.u4_original {
+    background-image: url('../酒店房型维护_files/u4_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:1017px;
+    top:20px;
+    width:110px;
+    height:30px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:116px;
+    height:36px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:1017px;
+    top:20px;
+    width:110px;
+    height:30px
+}
+
+.u6 {
+    position:absolute;
+    left:230px;
+    top:70px;
+    width:310px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_text {
+    position:absolute;
+    left:890px;
+    top:24px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:890px;
+    top:24px;
+    width:60px;
+    height:16px
+}
+
+.u8_original {
+    background-image: url('../酒店房型维护_files/u8_original.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:220px;
+    top:100px;
+    width:990px;
+    height:30px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:996px;
+    height:36px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:986px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:220px;
+    top:100px;
+    width:990px;
+    height:30px
+}
+
+.u10 {
+    position:absolute;
+    left:232px;
+    top:108px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:562px;
+    top:108px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u12 {
+    position:absolute;
+    left:220px;
+    top:130px;
+    width:994px;
+    height:65px
+}
+
+.u12_table {
+    background-image: url('../酒店房型维护_files/u12_table.png');
+}
+
+.u12_table {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:998px;
+    height:69px;
+}
+
+.u13_original {
+    background-image: url('../酒店房型维护_files/u13_original.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:293px;
+    height:20px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:289px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:293px;
+    height:20px
+}
+
+.u15_original {
+    background-image: url('../酒店房型维护_files/u15_original.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:293px;
+    top:0px;
+    width:339px;
+    height:20px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:335px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:293px;
+    top:0px;
+    width:339px;
+    height:20px
+}
+
+.u17_original {
+    background-image: url('../酒店房型维护_files/u17_original.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:632px;
+    top:0px;
+    width:269px;
+    height:20px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:265px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:632px;
+    top:0px;
+    width:269px;
+    height:20px
+}
+
+.u19_original {
+    background-image: url('../酒店房型维护_files/u19_original.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:901px;
+    top:0px;
+    width:88px;
+    height:20px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:901px;
+    top:0px;
+    width:88px;
+    height:20px
+}
+
+.u21_original {
+    background-image: url('../酒店房型维护_files/u13_original.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:293px;
+    height:20px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:289px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:293px;
+    height:20px
+}
+
+.u23_original {
+    background-image: url('../酒店房型维护_files/u15_original.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:293px;
+    top:20px;
+    width:339px;
+    height:20px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:335px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:293px;
+    top:20px;
+    width:339px;
+    height:20px
+}
+
+.u25_original {
+    background-image: url('../酒店房型维护_files/u17_original.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:632px;
+    top:20px;
+    width:269px;
+    height:20px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:265px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:632px;
+    top:20px;
+    width:269px;
+    height:20px
+}
+
+.u27_original {
+    background-image: url('../酒店房型维护_files/u19_original.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:901px;
+    top:20px;
+    width:88px;
+    height:20px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:901px;
+    top:20px;
+    width:88px;
+    height:20px
+}
+
+.u29_original {
+    background-image: url('../酒店房型维护_files/u13_original.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:293px;
+    height:20px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:289px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:293px;
+    height:20px
+}
+
+.u31_original {
+    background-image: url('../酒店房型维护_files/u15_original.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:293px;
+    top:40px;
+    width:339px;
+    height:20px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:335px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:293px;
+    top:40px;
+    width:339px;
+    height:20px
+}
+
+.u33_original {
+    background-image: url('../酒店房型维护_files/u17_original.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:632px;
+    top:40px;
+    width:269px;
+    height:20px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:265px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:632px;
+    top:40px;
+    width:269px;
+    height:20px
+}
+
+.u35_original {
+    background-image: url('../酒店房型维护_files/u19_original.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:901px;
+    top:40px;
+    width:88px;
+    height:20px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:901px;
+    top:40px;
+    width:88px;
+    height:20px
+}
+
+.u37 {
+    position:absolute;
+    left:230px;
+    top:224px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_line {
+    background-image: url('../酒店房型维护_files/u38_line.png');
+}
+
+.u38_line {
+    position:absolute;
+    left:230px;
+    top:244px;
+    width:970px;
+    height:3px;
+}
+
+.u38 {
+    position:absolute;
+    left:230px;
+    top:244px;
+    width:970px;
+    height:3px
+}
+
+.u39 {
+    position:absolute;
+    left:238px;
+    top:264px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:1130px;
+    top:134px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:1171px;
+    top:134px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:340px;
+    top:259px;
+    width:270px;
+    height:22px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u43 {
+    position:absolute;
+    left:237px;
+    top:311px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:340px;
+    top:303px;
+    width:270px;
+    height:22px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u45 {
+    position:absolute;
+    left:240px;
+    top:350px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:340px;
+    top:347px;
+    width:270px;
+    height:22px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u47 {
+    position:absolute;
+    left:340px;
+    top:420px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u48 {
+    position:absolute;
+    left:962px;
+    top:107px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:620px;
+    top:350px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_original {
+    background-image: url('../menu_files/u252_original.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:190px;
+    height:290px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:196px;
+    height:296px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:137px;
+    width:186px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:190px;
+    height:290px
+}
+
+.u54_selected {
+    background-image: url('../menu_files/u256_selected.png');
+}
+
+.u54_original {
+    background-image: url('../menu_files/u256_original.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px;
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:9px;
+    height:9px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px
+}
+
+.u56_original {
+    background-image: url('../menu_files/u258_original.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u57 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u56 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px
+}
+
+.u59_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u59_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u60 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u59 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px
+}
+
+.u62_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u62_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u63 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u62 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px
+}
+
+.u65_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u65_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u66 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:53px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u65 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px
+}
+

@@ -1,0 +1,30 @@
+* html .u0_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="menu_files/u252_original.png");
+}
+
+* html .u4_selected {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="menu_files/u256_selected.png");
+}
+
+* html .u4_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="menu_files/u256_original.png");
+}
+
+* html .u6_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="menu_files/u258_original.png");
+}
+
+* html .u18_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="添加酒店_files/u18_original.png");
+}
+
+* html .u20_original {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="添加酒店_files/u20_original.png");
+}
+
